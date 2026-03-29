@@ -1,0 +1,32 @@
+{
+    "name":"RIP",
+    "levelId":"RIP.eicateve.0",
+    "discName":"Disc 1",
+    "chartIds":[
+        "chart.RIP.eicateve.0.EZ",
+        "chart.RIP.eicateve.0.HD",
+        "chart.RIP.eicateve.0.IN"
+    ],
+    "illustrationId":"illustration.RIP.eicateve.0",
+    "musicId":"RIP.eicateve.0",
+    "appearType":0,
+    "seriesIndex":-1,
+    "isNewLevel":0,
+    "chartLevel":[
+        {
+            "difficultyLevel":"EZ",
+            "difficulty":3.5,
+            "designer":"百九十八"
+        },
+        {
+            "difficultyLevel":"HD",
+            "difficulty":9.5,
+            "designer":"good 猫ning"
+        },
+        {
+            "difficultyLevel":"IN",
+            "difficulty":14.0,
+            "designer":"good Night, good moRning"
+        }
+    ]
+}

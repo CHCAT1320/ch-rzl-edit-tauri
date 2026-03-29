@@ -1,0 +1,158 @@
+header {
+    background-color: #333;
+    color: #fff;
+    height: 70px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 2fr auto;
+    align-items: center;
+    padding: 0 20px;
+    border: 1px solid #fff;
+    border-top: none;
+    box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  -webkit-tap-highlight-color: transparent;  /* 移动端去除点击高亮 */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#canvasIndexDiv {
+    text-align: center;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    /* justify-items: center; */
+
+}
+#canvasIndexDiv input[type="text"] {
+  width: 50px;
+}
+#beatLineCountDiv {
+    text-align: center;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    /* justify-items: center; */
+
+    /* justify-self: center; */
+}
+#beatLineCountDiv input[type="text"] {
+  width: 50px;
+}
+#beatLineIntervalDiv {
+    text-align: center;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    /* justify-items: center; */
+
+    /* justify-self: center; */
+}
+#beatLineIntervalDiv input[type="text"] {
+  width: 60px;
+}
+
+
+
+.simpleButton {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #474747;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  transition: background-color 0.3s ease-in-out;
+}
+.simpleButton:hover {
+  background-color: #555;
+}
+
+#editArea {
+  width: 100%;
+  height: calc(100% - 70px);
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+#cvs {
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  /* cursor: crosshair; */
+  border: 1px solid #fff;
+  border-top: none;
+  border-right: none;
+  box-sizing: border-box
+}
+#toolBox {
+    background-color: #333;
+    border: #fff 1px solid;
+    border-top: none;
+    text-align: center;
+    box-sizing: border-box
+}
+#tollsDiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-gap: 15px;
+    padding: 10px;
+}
+
+/* dialog {
+    background-color: #333;
+    color: #fff;
+    border: #fff 1px solid;
+    border-radius: 10px;
+}
+
+dialog::backdrop {
+  backdrop-filter: blur(1px);
+} */
+
+input[type="text"] {
+    transition: all 0.3s ease;        /* 平滑过渡 */
+    border: 1px solid #d1d5db;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+.confirmButton {
+    background-color: #15ff00;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.cancelButton {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    cursor: pointer;
+}
+    

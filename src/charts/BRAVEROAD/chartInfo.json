@@ -1,0 +1,32 @@
+{
+    "name":"BRAVEROAD",
+    "levelId":"BRAVEROAD.umavsMorimoriAtsushi.0",
+    "discName":"Disc 1",
+    "chartIds":[
+        "chart.BRAVEROAD.umavsMorimoriAtsushi.0.HD",
+        "chart.BRAVEROAD.umavsMorimoriAtsushi.0.IN",
+        "chart.BRAVEROAD.umavsMorimoriAtsushi.0.AT"
+    ],
+    "illustrationId":"illustration.BRAVEROAD.umavsMorimoriAtsushi.0",
+    "musicId":"BRAVEROAD.umavsMorimoriAtsushi.0",
+    "appearType":0,
+    "seriesIndex":-1,
+    "isNewLevel":0,
+    "chartLevel":[
+        {
+            "difficultyLevel":"HD",
+            "difficulty":9.5,
+            "designer":"咏歌"
+        },
+        {
+            "difficultyLevel":"IN",
+            "difficulty":14.199999809265137,
+            "designer":"普灵"
+        },
+        {
+            "difficultyLevel":"AT",
+            "difficulty":15.100000381469727,
+            "designer":"咏歌 vs. 普灵"
+        }
+    ]
+}

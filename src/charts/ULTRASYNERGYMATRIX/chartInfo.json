@@ -1,0 +1,32 @@
+{
+    "name":"ULTRASYNERGYMATRIX",
+    "levelId":"ULTRASYNERGYMATRIX.Tanchiky.0",
+    "discName":"Disc EX",
+    "chartIds":[
+        "chart.ULTRASYNERGYMATRIX.Tanchiky.0.EZ",
+        "chart.ULTRASYNERGYMATRIX.Tanchiky.0.HD",
+        "chart.ULTRASYNERGYMATRIX.Tanchiky.0.IN"
+    ],
+    "illustrationId":"illustration.ULTRASYNERGYMATRIX.Tanchiky.0",
+    "musicId":"ULTRASYNERGYMATRIX.Tanchiky.0",
+    "appearType":0,
+    "seriesIndex":15,
+    "isNewLevel":1,
+    "chartLevel":[
+        {
+            "difficultyLevel":"EZ",
+            "difficulty":2.5,
+            "designer":"百九十八"
+        },
+        {
+            "difficultyLevel":"HD",
+            "difficulty":8.0,
+            "designer":"百九十八"
+        },
+        {
+            "difficultyLevel":"IN",
+            "difficulty":14.0,
+            "designer":"Nuclear Engine Redcat"
+        }
+    ]
+}

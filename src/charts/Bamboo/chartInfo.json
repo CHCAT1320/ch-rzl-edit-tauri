@@ -1,0 +1,32 @@
+{
+    "name":"Bamboo",
+    "levelId":"Bamboo.rissyuu.0",
+    "discName":"Disc 1",
+    "chartIds":[
+        "chart.Bamboo.rissyuu.0.EZ",
+        "chart.Bamboo.rissyuu.0.HD",
+        "chart.Bamboo.rissyuu.0.IN"
+    ],
+    "illustrationId":"illustration.Bamboo.rissyuu.0",
+    "musicId":"Bamboo.rissyuu.0",
+    "appearType":0,
+    "seriesIndex":-1,
+    "isNewLevel":0,
+    "chartLevel":[
+        {
+            "difficultyLevel":"EZ",
+            "difficulty":4.0,
+            "designer":"晨"
+        },
+        {
+            "difficultyLevel":"HD",
+            "difficulty":8.0,
+            "designer":"晨"
+        },
+        {
+            "difficultyLevel":"IN",
+            "difficulty":14.2,
+            "designer":"StupiGGy"
+        }
+    ]
+}

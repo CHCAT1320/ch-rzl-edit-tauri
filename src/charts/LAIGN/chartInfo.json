@@ -1,0 +1,32 @@
+{
+    "name":"LAIGN",
+    "levelId":"LAIGN.KiufeatNikkiSimons.0",
+    "discName":"Disc EX",
+    "chartIds":[
+        "chart.LAIGN.KiufeatNikkiSimons.0.EZ",
+        "chart.LAIGN.KiufeatNikkiSimons.0.HD",
+        "chart.LAIGN.KiufeatNikkiSimons.0.IN"
+    ],
+    "illustrationId":"illustration.LAIGN.KiufeatNikkiSimons.0",
+    "musicId":"LAIGN.KiufeatNikkiSimons.0",
+    "appearType":0,
+    "seriesIndex":14,
+    "isNewLevel":0,
+    "chartLevel":[
+        {
+            "difficultyLevel":"EZ",
+            "difficulty":5.5,
+            "designer":"天体演算程序 <Ver. 31>"
+        },
+        {
+            "difficultyLevel":"HD",
+            "difficulty":10.0,
+            "designer":"质子对撞设备 <Code: Xollider>"
+        },
+        {
+            "difficultyLevel":"IN",
+            "difficulty":14.7,
+            "designer":"光速驱动装置 <Type - D>"
+        }
+    ]
+}
