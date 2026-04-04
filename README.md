@@ -6,4 +6,4 @@
 
 ！！当前无任何编辑功能
 
-制谱器谱面文件格式请看文档
+制谱器谱面文件格式请看[文档](https://chcat1320.github.io/CHCAT-Docs/knowladges/rizline/cre.html)
